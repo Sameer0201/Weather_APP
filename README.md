@@ -1,6 +1,6 @@
 # Weather_APP
 
-![Simulator Screen Shot - iPhone 6 - 2019-05-06 at 03 47 37](https://user-images.githubusercontent.com/37849215/57212611-42609b00-6fb2-11e9-91c0-afc75fd99c08.png)
+![Simulator Screen Shot - iPhone 6 - 2019-05-06 at 03 47 37](https://user-images.githubusercontent.com/37849215/57212611-42609b00-6fb2-11e9-91c0-afc75fd99c08.png = 750*1334)
 
 ![Simulator Screen Shot - iPhone 6 - 2019-05-06 at 03 47 26](https://user-images.githubusercontent.com/37849215/57212632-55736b00-6fb2-11e9-88f2-caa910657962.png)
 
