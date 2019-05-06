@@ -19,6 +19,6 @@ extension City {
     @NSManaged public var temperature: String?
     @NSManaged public var zipcode: String?
     @NSManaged public var name: String?
-    @NSManaged public var id: Int16
+    @NSManaged public var id: Int32
 
 }
