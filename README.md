@@ -7,4 +7,4 @@
 <img src="https://user-images.githubusercontent.com/37849215/57267649-d7b16d00-704e-11e9-87ea-ae3ae8baa72c.png" width = "350" height = "550"/>
 
 ## Edit View
-<img src="https://user-images.githubusercontent.com/37849215/57212632-55736b00-6fb2-11e9-88f2-caa910657962.png" width = "350" height = "550"/>
+<img src="https://user-images.githubusercontent.com/37849215/57267688-fca5e000-704e-11e9-8aef-b6706fbac823.png" width = "350" height = "550"/>
